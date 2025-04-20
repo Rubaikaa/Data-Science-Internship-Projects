@@ -6,8 +6,7 @@ Welcome to the Data Science Internship Repository! This space is designed to hel
 
 ### 🧠 Task 1: Employee Attrition Prediction
 **Objective:** Predict employee attrition and provide actionable retention strategies.
-
-🗂 Folder: [`Task1_Employee_Attrition`](Task 1: Predict Employee Attrition)  
+ 
 📦 Dataset: IBM HR Analytics Employee Dataset  
 📈 Algorithms: Random Forest  
 🔍 Explainability: SHAP  
@@ -21,8 +20,7 @@ Welcome to the Data Science Internship Repository! This space is designed to hel
 
 ### 📰 Task 2: Text Summarization
 **Objective:** Automatically summarize long texts using extractive and abstractive techniques.
-
-🗂 Folder: [`Task2_Text_Summarization`](./Task2_Text_Summarization)  
+  
 📦 Dataset: CNN / Daily Mail  
 🧰 Tools: spaCy, HuggingFace Transformers (BERT, GPT)  
 📝 Output: Summary Generator + Model Evaluation
@@ -37,7 +35,6 @@ Welcome to the Data Science Internship Repository! This space is designed to hel
 ### 🩺 Task 3: Disease Diagnosis Prediction
 **Objective:** Predict diabetes likelihood using medical features.
 
-🗂 Folder: [`Task3_Disease_Diagnosis`](./Task3_Disease_Diagnosis)  
 📦 Dataset: PIMA Indians Diabetes Dataset  
 📈 Models: Gradient Boosting  
 📊 Metrics: F1 Score, AUC-ROC  
@@ -52,8 +49,7 @@ Welcome to the Data Science Internship Repository! This space is designed to hel
 
 ### 💰 Task 4: Loan Default Prediction
 **Objective:** Identify high-risk borrowers using financial data.
-
-🗂 Folder: [`Task4_Loan_Default`](./Task4_Loan_Default)  
+  
 📦 Dataset: Lending Club Dataset  
 📈 Models: LightGBM, Logistic Regression  
 📊 Metrics: Precision, Recall, F1, AUC  
