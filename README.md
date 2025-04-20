@@ -1,4 +1,4 @@
-# 👩‍💻 Data Science Internship Projects Hub
+# 👩‍💻 Data Science Internship Projects (Developers Hub)
 
 Welcome to the Data Science Internship Repository! This space is designed to help you gain real-world experience in applying machine learning and data science across multiple domains, such as HR analytics, NLP summarization, healthcare, and finance.
 
