@@ -2,6 +2,25 @@
 
 Welcome to the Data Science Internship Repository! This space is designed to help you gain real-world experience in applying machine learning and data science across multiple domains, such as HR analytics, NLP summarization, healthcare, and finance.
 
+## 🧱 Key Components
+
+Each task in this project includes:
+- 📁 **Dataset access** (public or pre-downloaded)
+- 📊 **EDA & preprocessing notebooks**
+- 🧠 **Model building and tuning**
+- 🧾 **Explainability or interpretability techniques**
+- 📈 **Performance metrics visualization**
+- 📋 **Reports with actionable business/health insights**
+
+## 💡 Project Highlights
+
+| Area         | Focus                                | Tools / Libraries |
+|--------------|---------------------------------------|-------------------|
+| HR Analytics | Attrition prediction & SHAP analysis | pandas, sklearn, shap |
+| NLP          | Text summarization (extractive + abstractive) | spaCy, transformers, BERT/GPT |
+| Healthcare   | Disease classification & risk insights | XGBoost, seaborn, AUC-ROC |
+| Finance      | Loan default prediction + SMOTE       | LightGBM, imbalanced-learn |
+
 ## 🔍 Task-by-Task Breakdown
 
 ### 🧠 Task 1: Employee Attrition Prediction
