@@ -7,7 +7,7 @@ Welcome to the Data Science Internship Repository! This space is designed to hel
 ### 🧠 Task 1: Employee Attrition Prediction
 **Objective:** Predict employee attrition and provide actionable retention strategies.
 
-🗂 Folder: [`Task1_Employee_Attrition`](./Task1_Employee_Attrition)  
+🗂 Folder: [`Task1_Employee_Attrition`](Task 1: Predict Employee Attrition)  
 📦 Dataset: IBM HR Analytics Employee Dataset  
 📈 Algorithms: Random Forest  
 🔍 Explainability: SHAP  
