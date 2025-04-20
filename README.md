@@ -66,13 +66,6 @@ Welcome to the Data Science Internship Repository! This space is designed to hel
 - [ ] Evaluation & Confusion Matrix
 - [ ] Risk Insights Dashboard
 
-## 🛠️ Setup Instructions
-
-1. Clone the repo:
-```bash
-git clone https://github.com/yourusername/data-science-internship.git
-cd data-science-internship
-
-👥 Contributors
+## 👥 Contributors
 Project Lead: Rubaika Akhtar
 Intern Team: Developers Hub
