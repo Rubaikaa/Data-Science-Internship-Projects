@@ -13,8 +13,8 @@ Welcome to the Data Science Internship Repository! This space is designed to hel
 📊 Output: Interactive Dashboard / HR Insights Report
 
 #### ✅ Task Checklist
-- [x] Data Cleaning & EDA
-- [x] Model Training (RF)
+- [ ] Data Cleaning & EDA
+- [ ] Model Training (RF)
 - [ ] Model Explainability (SHAP, LIME)
 - [ ] Insight Generation + Report
 
@@ -64,4 +64,5 @@ Welcome to the Data Science Internship Repository! This space is designed to hel
 
 ## 👥 Contributors
 Project Lead: Rubaika Akhtar
+
 Intern Team: Developers Hub
